@@ -55,7 +55,16 @@
       "endDate": "2024",
       "gpa": null,
       "courses": []
-    }
+    },
+    {
+      "institution": "Sorbonne University",
+      "area": "Bachelor degree in Physics and Computer Science (Dual Major)",
+      "studyType": "",
+      "startDate": "2021",
+      "endDate": "2023",
+      "gpa": null,
+      "courses": []
+    },
   ]
 }
  
