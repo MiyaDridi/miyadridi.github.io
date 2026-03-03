@@ -24,7 +24,7 @@
   "education": [
     {
       "institution": "Inria and Télécom Paris",
-      "area": "Ph.D in Quantim Error Correction",
+      "area": "Ph.D in Quantum Error Correction",
       "studyType": "",
       "startDate": "2026",
       "endDate": "",
@@ -34,8 +34,8 @@
     {
       "institution": "Quandela",
       "area" : "6 months internship on compilation under the supervision of Timothée Goubault de Brugière",
-      "startDate": "March 2025",
-      "endDate" : "September 2025"
+      "startDate": "2025-03",
+      "endDate" : "2025-09"
     },
     
     {
@@ -57,6 +57,5 @@
       "courses": []
     }
   ]
-
-
+}
  
