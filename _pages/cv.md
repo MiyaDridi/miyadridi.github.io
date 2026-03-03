@@ -11,54 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Quantum Error Correction, Inria x Télécom Paris (2026-)
+* Master's degree in Quantum Computing (Physics Track), Sorbonne Université (2024-2025)
+* Erasmus Exchange, Physics Master's degree (1st year), University of Manchester (2023-2024)
+* Bachelor degree in Physics and Computer Science (Dual Major), Sorbonne Université (2021-2023)
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Internship in Quandela's Theory Team
+  * 6 months internship on compilation and optimization for a photonic QPU
+  * Supervisor: Dr. Timothée Goubault de Brugière
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Project with the Chritie NHS Fundation Trust, Manchester
+  * Year-long project carried out during my exchange at the University of Manchester
+  * Subject : Spatial normalisation for dose-response studies of children treated with radiotherapy for brain tumors
+  * Supervisor: Dr. Marianne Aznar
   
-Skills
+Miscelleanous
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Holder of the Fondation Sorbonne Université's "Passeport pour les Sciences Pluri'elles" scholarship (2021-2025)
+  * Scholarship awarded for 4 years to one student per promotion to encourage young women to pursue STEM studies and careers
