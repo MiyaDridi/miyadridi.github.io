@@ -23,7 +23,7 @@ repository               : "MiyaDridi/miyadridi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "id_pic.png"
+  avatar           : "id_pic.jpg"
   name             : "Miya Dridi"
   pronouns         : # example: "she/her"  
   bio              : "Hi! I am a first year PhD student working on quantum error correction and early fault tolerance."
